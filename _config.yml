@@ -97,7 +97,7 @@ analytics:
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "/assets/img/Generic Profile Pic.jpg"
+  avatar           : "/assets/img/John Walther Headshot Square.jpg"
   bio              : "A mechanical engineering sophomore interested in automotive engineering"
   location         : "Brentwood, TN"
   links:
